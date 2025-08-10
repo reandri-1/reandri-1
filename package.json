@@ -1,0 +1,22 @@
+{
+  "name": "reandri-github-profile",
+  "version": "1.0.0",
+  "description": "Modern GitHub profile with real-time stats",
+  "main": ".github/scripts/update-readme.js",
+  "scripts": {
+    "update-stats": "node .github/scripts/update-readme.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "github",
+    "profile",
+    "readme",
+    "stats",
+    "automation"
+  ],
+  "author": "Reandri",
+  "license": "MIT"
+}

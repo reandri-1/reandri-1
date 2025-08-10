@@ -1,0 +1,53 @@
+{
+  "profile": {
+    "username": "Reandri-1",
+    "name": "Reandri",
+    "bio": "Full Stack Developer | Cyber Security Enthusiast | Gamer",
+    "location": "Indonesia",
+    "interests": [
+      "Genshin Impact",
+      "Call of Duty Mobile",
+      "Valorant",
+      "Full Stack Development",
+      "Cyber Security",
+      "Ethical Hacking"
+    ]
+  },
+  "social": {
+    "instagram": {
+      "username": "YOUR_INSTAGRAM_USERNAME",
+      "display": true
+    },
+    "twitter": {
+      "username": "YOUR_TWITTER_USERNAME",
+      "display": true
+    },
+    "linkedin": {
+      "username": "YOUR_LINKEDIN_USERNAME",
+      "display": true
+    },
+    "discord": {
+      "username": "YOUR_DISCORD_USERNAME",
+      "display": true
+    }
+  },
+  "stats": {
+    "github": {
+      "show": true,
+      "theme": "radical"
+    },
+    "wakatime": {
+      "show": true,
+      "username": "YOUR_WAKATIME_USERNAME"
+    },
+    "streak": {
+      "show": true,
+      "theme": "radical"
+    }
+  },
+  "badges": {
+    "show_profile_views": true,
+    "show_trophies": true,
+    "show_activity_graph": true
+  }
+}
