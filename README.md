@@ -50,10 +50,7 @@ I'm a passionate gamer who loves diving into virtual worlds! Currently addicted 
   
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -62,15 +59,8 @@ I'm a passionate gamer who loves diving into virtual worlds! Currently addicted 
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Cyber Security
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-FF6600?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-EE0000?style=for-the-badge&logo=metasploit&logoColor=white)
 
 </div>
 
@@ -90,7 +80,7 @@ I'm a passionate gamer who loves diving into virtual worlds! Currently addicted 
 
 ## 🎯 Current Focus
 
-- 🎮 **Gaming**: Mastering Valorant agents and improving aim
+- 🎮 **Gaming**: Mastering Valorant agents and improving aim and get all of my waifu on genshin impact
 - 💻 **Coding**: Building full-stack applications with modern tech
 - 🔐 **Security**: Learning penetration testing and ethical hacking
 - 📚 **Learning**: Exploring new technologies and frameworks
@@ -132,6 +122,7 @@ No Activity tracked
 ![Profile Views](https://komarev.com/ghpvc/?username=Reandri-1&label=Profile%20views&color=0e75b6&style=flat-square)
 
 </div>
+
 
 
 
