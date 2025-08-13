@@ -37,10 +37,6 @@ I'm a passionate gamer who loves diving into virtual worlds! Currently addicted 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reandri-1&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-### Instagram Followers
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![Instagram Followers](https://img.shields.io/badge/dynamic/json?color=E4405F&label=Followers&query=%24.data.user.edge_followed_by.count&url=https%3A%2F%2Fwww.instagram.com%2F%7B%7Banonimerzz%7D%7D%2F%3F__a%3D1&style=for-the-badge)
-
 ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reandri-1&layout=compact&theme=radical&hide_border=true)
 
@@ -136,6 +132,7 @@ No Activity tracked
 ![Profile Views](https://komarev.com/ghpvc/?username=Reandri-1&label=Profile%20views&color=0e75b6&style=flat-square)
 
 </div>
+
 
 
 
