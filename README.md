@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Reandri 👋</h1>
----
 
 ## 🎮 About Me
 
@@ -137,6 +136,7 @@ No Activity tracked
 ![Profile Views](https://komarev.com/ghpvc/?username=Reandri-1&label=Profile%20views&color=0e75b6&style=flat-square)
 
 </div>
+
 
 
 
