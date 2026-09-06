@@ -77,17 +77,6 @@ ability to understand real-world needs.
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                     CAUTION BLOCK                                -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-> [!CAUTION]
-> **Code is never finished, it only gets better.**
->
-> What you see here is built with practice, curiosity, and persistence.
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
 <!--                       TECH STACK                                 -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
@@ -111,35 +100,6 @@ ability to understand real-world needs.
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                     CONTRIBUTION GRAPH                           -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reandri-1&bg_color=0d1117&color=ff00ff&line=bf00ff&point=ffffff&area_color=8b00ff&area=true&hide_border=true&custom_title=reandri-1%27s%20Contribution%20Graph" width="97%" alt="Activity Graph" />
-</p>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                      GITHUB STATS                                -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reandri-1&show_icons=true&bg_color=0d1117&title_color=ff00ff&text_color=c9d1d9&icon_color=bf00ff&border_color=30363d&hide_border=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reandri-1&layout=compact&bg_color=0d1117&title_color=ff00ff&text_color=c9d1d9&icon_color=bf00ff&border_color=30363d&hide_border=false" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=reandri-1&background=0d1117&ring=ff00ff&fire=ff00ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=bf00ff&sideLabels=bf00ff&dates=666666&border=30363d&stroke=30363d" alt="GitHub Streak" width="97%" />
 </p>
 
 <br/>
