@@ -32,30 +32,15 @@
 
 <h2 align="center">Who Am I?</h2>
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
+<img align="right" src="./assets/lucy-profile.jpg" width="280" alt="Lucy" />
 
-I am a developer who loves clean code, minimalist aesthetics, and the
-cyberpunk genre. My professional journey is driven by continuous learning,
-practical experience, and a strong commitment to delivering complete and
-functional systems for real-world needs.
+I am a developer who loves clean code, minimalist aesthetics, and the cyberpunk genre. My professional journey is driven by continuous learning, practical experience, and a strong commitment to delivering complete and functional systems for real-world needs.
 
-Over time, I have developed solid experience across the development ecosystem,
-with a strong passion for **Front-End Development**, where logic meets creativity
-and visual design.
+Over time, I have developed solid experience across the development ecosystem, with a strong passion for **Front-End Development**, where logic meets creativity and visual design. Alongside web technologies, I have expanded my skills into mobile development, focusing on building modern applications.
 
-At the moment, I am actively exploring new technologies and building projects
-that merge functionality with beautiful interfaces. This hands-on experience
-has strengthened my **problem-solving skills**, **technical versatility**, and
-ability to understand real-world needs.
+At the moment, I am actively exploring new technologies and building projects that merge functionality with beautiful interfaces. This hands-on experience has strengthened my **problem-solving skills**, **technical versatility**, and ability to understand real-world needs, while constantly pushing me to grow as a developer and professional.
 
-</td>
-    <td width="40%" align="center" valign="top">
-      <img src="./assets/lucy-profile.jpg" width="280" alt="Lucy" />
-    </td>
-  </tr>
-</table>
+<br clear="right"/>
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
 <!--                       SOCIAL LINKS                               -->
