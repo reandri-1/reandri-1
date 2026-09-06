@@ -36,13 +36,13 @@
 
 Aku adalah Nabil bisa juga disebut Reandri. Hari-hari ku  selalu dimulai dengan melihat my bini gw bukan hanya lucy tapi saya punya banyak sekali waifu. Endministrator, Fern, Furina, Arcane, Asuna, Aliya, Nino, Tsunade, Misato Katsuragi, Faye Valentine, C.C., Boa Hancock, Akeno Himejima, Mai Shiranui, Morrigan Aensland, Ivy Valentine, Bayonetta, Tifa Lockhart, Lulu, Lady Dimitrescu, Kafka, Yelan, Raiden Shogun, Yae Miko, Citlali, Zani, Cantarella, Hyuki, Suisui, Aemith, Hsin, Hoshimi Miyabi, Nicole, Jane Doe, Astra Yaora, Sparkle, Navia, Shin Haein, Shin-Ahyoung, Park Ahyoung, Han-Chae Ah
 
-Part of student Telkom  University, aku sangat suka mempelajari dunia cyber security. menyelami berbagai situs dan melihat bagaimana caranya dunia digital bisa terus bergerak. Aku selalu penasaran apa yang sebenarnya terjadi di bagian terdalam internet, apakah aku bisa melihat  sesuatu yang tak  biasa atau hanya imajinasi yang tumbuh dari film. 
+Student at Telkom  University, aku sangat suka mempelajari dunia cybersecurity. menyelami berbagai situs dan melihat bagaimana caranya dunia digital bisa terus bergerak. Aku selalu penasaran apa yang sebenarnya terjadi di bagian terdalam internet, apakah aku bisa melihat  sesuatu yang tak  biasa atau hanya imajinasi yang tumbuh dari film. 
 
 Selain itu aku sangat suka dengan kemajuan teknologi terlebih lagi dalam personal computer. Processor baru, server yang besar untuk melatih AI hingga teknologi yang sangat inspiratif dan bisa bermanfaat untuk  orang banyak. 
 
 Btw i use arch linux
 
-Salam kenal semua lets play game together next time 
+Salam kenal semua!, letss play game together next time!! 
 
 <br clear="right"/>
 
