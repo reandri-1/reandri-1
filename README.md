@@ -34,11 +34,15 @@
 
 <img align="right" src="./assets/lucy-profile.jpg" width="280" alt="Lucy" />
 
-I am a developer who loves clean code, minimalist aesthetics, and the cyberpunk genre. My professional journey is driven by continuous learning, practical experience, and a strong commitment to delivering complete and functional systems for real-world needs.
+Aku adalah Nabil bisa juga disebut Reandri. Hari-hari ku  selalu dimulai dengan melihat my bini gw bukan hanya lucy tapi saya punya banyak sekali waifu. Endministrator, Fern, Furina, Arcane, Asuna, Aliya, Nino, Tsunade, Misato Katsuragi, Faye Valentine, C.C., Boa Hancock, Akeno Himejima, Mai Shiranui, Morrigan Aensland, Ivy Valentine, Bayonetta, Tifa Lockhart, Lulu, Lady Dimitrescu, Kafka, Yelan, Raiden Shogun, Yae Miko, Citlali, Zani, Cantarella, Hyuki, Suisui, Aemith, Hsin, Hoshimi Miyabi, Nicole, Jane Doe, Astra Yaora, Sparkle, Navia, Shin Haein, Shin-Ahyoung, Park Ahyoung, Han-Chae Ah
 
-Over time, I have developed solid experience across the development ecosystem, with a strong passion for **Front-End Development**, where logic meets creativity and visual design. Alongside web technologies, I have expanded my skills into mobile development, focusing on building modern applications.
+Part of student Telkom  University, aku sangat suka mempelajari dunia cyber security. menyelami berbagai situs dan melihat bagaimana caranya dunia digital bisa terus bergerak. Aku selalu penasaran apa yang sebenarnya terjadi di bagian terdalam internet, apakah aku bisa melihat  sesuatu yang tak  biasa atau hanya imajinasi yang tumbuh dari film. 
 
-At the moment, I am actively exploring new technologies and building projects that merge functionality with beautiful interfaces. This hands-on experience has strengthened my **problem-solving skills**, **technical versatility**, and ability to understand real-world needs, while constantly pushing me to grow as a developer and professional.
+Selain itu aku sangat suka dengan kemajuan teknologi terlebih lagi dalam personal computer. Processor baru, server yang besar untuk melatih AI hingga teknologi yang sangat inspiratif dan bisa bermanfaat untuk  orang banyak. 
+
+Btw i use arch linux
+
+Salam kenal semua lets play game together next time 
 
 <br clear="right"/>
 
@@ -48,14 +52,14 @@ At the moment, I am actively exploring new technologies and building projects th
 
 <h3 align="center">You can Click here</h3>
 <p align="center">
-  <a href="https://pinterest.com/">
-    <img src="https://img.shields.io/badge/PINTEREST-ff00ff?style=for-the-badge&logo=pinterest&logoColor=white" />
+  <a href="https://instagram.com/n.telyou">
+    <img src="https://img.shields.io/badge/INSTAGRAM-ff00ff?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/">
     <img src="https://img.shields.io/badge/LINKEDIN-bf00ff?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/GMAIL-8b00ff?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://tiktok.com/@beuum">
+    <img src="https://img.shields.io/badge/TIKTOK-8b00ff?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
 
@@ -68,22 +72,24 @@ At the moment, I am actively exploring new technologies and building projects th
 <h2 align="center">⚡ Tech & Tools I Use</h2>
 
 <p align="center">
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <!-- Cyber Security Tools -->
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
   <br/>
+  <!-- Tools & OS -->
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
