@@ -101,8 +101,6 @@ Salam kenal semua!, letss play game together next time!!
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b00ff,50:bf00ff,100:ff00ff&height=120&section=footer" width="100%" />
-
 <br/>
 
 <sub>
